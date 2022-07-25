@@ -2,7 +2,7 @@
 <!-- <img src = "https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"/> -->
 <!-- <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width = "25" height = "25"/> -->
 
-<img src="https://steamuserimages-a.akamaihd.net/ugc/1750192580777325570/34439813918391F33D5B5A681CD1E2F8035056C2/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width = "" height = "350"/>
+<img src="https://steamuserimages-a.akamaihd.net/ugc/1750192580777325570/34439813918391F33D5B5A681CD1E2F8035056C2/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width = "890" height = "450"/>
 
 🎓 I am an Undergraduate student currently pursuing Computer Science and Engineering from [IIIT Delhi](https://iiitd.ac.in/)
 
